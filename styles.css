@@ -22,3 +22,16 @@ body{
     font-size: 2rem;
     border-radius: .5rem;
 }
+.botones {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-gap: 5px; 
+    justify-items: center; 
+}
+.boton.negro {  
+    background-color: rgb(184, 184, 230);
+    transition: 0.2s;
+}    
+.no-mostrar{
+    display: none;
+}
