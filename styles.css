@@ -1,0 +1,6 @@
+body{
+    min-height: 100vh;
+    background-color:purple;
+    display: grid;
+    place-items: center;
+}
