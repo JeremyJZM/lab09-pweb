@@ -28,6 +28,19 @@ body{
     grid-gap: 5px; 
     justify-items: center; 
 }
+.boton{
+    all: initial;
+    padding: .75rem;
+    border-radius: 1rem;
+    border: solid 0.7px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    background-color: rgb(230, 230, 255);
+    transition: 0.2s;
+}
 .boton.negro {  
     background-color: rgb(184, 184, 230);
     transition: 0.2s;
