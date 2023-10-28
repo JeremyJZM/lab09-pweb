@@ -44,6 +44,10 @@ body{
 .boton.negro {  
     background-color: rgb(184, 184, 230);
     transition: 0.2s;
+}
+.boton.azul {
+    background-color: rgb(110, 110, 255);
+    transition: 0.2s;
 }    
 .no-mostrar{
     display: none;
